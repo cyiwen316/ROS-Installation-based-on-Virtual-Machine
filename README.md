@@ -1,6 +1,6 @@
 ### BreadcrumbsROS-Installation-based-on-Virtual-Machine
 
-## I. Download VirtualBox
+## I. Download Ubuntu 20.04
 Download Ubuntu Desktop from the official web site (https://ubuntu.com/download/desktop).
 
 First, go to the official web site and click **'check out our alternative downloads'**.
@@ -16,7 +16,7 @@ Finally, download **64-bit PC (AMD64) desktop image**.
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/Ubuntu20.04-4.png)
 
 
-
+## I. Download VirtualBox
 # Why VirtualBox?
 When using a traditional you need to install the operating system on a physical machine for evaluating software that cannot be installed on your current operating system. Oracle VirtualBox is what you need in this case, instead of reinstalling software on your physical machine. VirtualBox is designed to run virtual machines on your physical machine without reinstalling your OS that is running on a physical machine. One more VirtualBox advantage is that this product can be installed for free.
 
