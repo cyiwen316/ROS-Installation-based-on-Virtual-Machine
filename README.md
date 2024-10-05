@@ -57,7 +57,7 @@ Here, we have to choose the base memory based on your host system RAM size. It i
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/6-12.png)
 
 > [!NOTE]
-Ubuntu recommends at least 25GB of free storage for smooth running.
+> Ubuntu recommends at least 25GB of free storage for smooth running.
 
 Click on **settings** to see the system information of your virtual machine.
 
