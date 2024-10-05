@@ -37,8 +37,14 @@ Specify name, Machine Folder (to save),Type and version for your virtual machine
 
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/5-12.png)
 
-Here, we have to choose the base memory based on your host system RAM size. It is highly recommended to not choose less than 1GB (if possibly choose more than _10GB_).specify RAM _2048_ and click on **Next**.
+Here, we have to choose the base memory based on your host system RAM size. It is highly recommended to not choose less than 1GB (if possibly choose more than _25GB_).specify RAM _2048_ and click on **Next**.
 
+![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/6-12.png)
+
+“`html
+Note :
+“`
+ Ubuntu recommends at least 25GB of free storage for smooth running.
 
 
 
