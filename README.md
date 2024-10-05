@@ -11,6 +11,8 @@ Then, go down and click **'Ubuntu 20.04 LTS (Focal Fossa)'**.
 
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/Ubuntu20.04-2.png)
 
+Finally, 
+
 
 # Why VirtualBox?
 When using a traditional you need to install the operating system on a physical machine for evaluating software that cannot be installed on your current operating system. Oracle VirtualBox is what you need in this case, instead of reinstalling software on your physical machine. VirtualBox is designed to run virtual machines on your physical machine without reinstalling your OS that is running on a physical machine. One more VirtualBox advantage is that this product can be installed for free.
