@@ -210,7 +210,9 @@ source ~/.bashrc
 ```
 
 How to use the simulator
+
 To launch the simulator :
+
 Open a terminal :
 ```
 roslaunch gazebo_robotino_ros_pkg env_global.launch
