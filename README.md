@@ -79,7 +79,7 @@ Install Ubuntu 20.04.1 LTS in Virtual Machine: Click on Start to start the insta
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/15-8.png)
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Full screen: Devices ->Insert Guest Additions CD image. And reboot Virtual System.
 
 ## III.
 
