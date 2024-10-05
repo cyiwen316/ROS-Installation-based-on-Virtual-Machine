@@ -59,7 +59,7 @@ Here, we have to choose the base memory based on your host system RAM size. It i
 > [!CAUTION]
 Ubuntu recommends at least 25GB of free storage for smooth running.
 
-
+Click on **settings** to see the system information of your virtual machine.
 
 
 
