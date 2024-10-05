@@ -25,7 +25,10 @@ Go to the official web site (Link: https://www.virtualbox.org/wiki/Downloads) to
 
 5. After finishing installation, you can tick the checkbox for starting VirtualBox after installation.
 
+# Deploying a New VM
+Once you have installed VirtualBox, open the application. You can see the graphical user interface of VirtualBox which is unified for all supported host operating systems. You can also use the command line interface and VBoxManage if needed. In the current example VirtualBox is set up on Windows 10.
 
+# Creating a Virtual Machine
 
 
 
