@@ -75,7 +75,7 @@ The Ubuntu 20.4 iso image has been loaded successfully to your virtual machine a
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/14-7.png)
 
 
-
+Install Ubuntu 20.04.1 LTS in Virtual Machine: Click on Start to start the installing ubuntu.
 
 
 
