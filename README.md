@@ -68,6 +68,13 @@ Load Ubuntu ISO Image file to your virtual machine:
 Go to storage section and click on Empty then load your ubuntu 20.04 iso image from your local machine as shown below.
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/12-10.png)
 
+select **ubuntu 20.04 iso image** and click on **open**.
+![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/13-7.png)
+
+The Ubuntu 20.4 iso image has been loaded successfully to your virtual machine and click on **ok**.
+![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/14-7.png)
+
+
 
 
 
