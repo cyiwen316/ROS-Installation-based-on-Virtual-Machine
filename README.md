@@ -85,9 +85,10 @@ Install Ubuntu 20.04.1 LTS in Virtual Machine: Click on Start to start the insta
 
 See http://wiki.ros.org/noetic/Installation/Ubuntu.
 
-
-
-
+Setup your computer to accept software from packages.ros.org.
+```
+sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+```
 
 
 
