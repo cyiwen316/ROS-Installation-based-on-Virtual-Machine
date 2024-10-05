@@ -26,11 +26,15 @@ Go to the official web site (Link: https://www.virtualbox.org/wiki/Downloads) to
 5. After finishing installation, you can tick the checkbox for starting VirtualBox after installation.
 
 # Deploying a New VM
-Once you have installed VirtualBox, open the application. You can see the graphical user interface of VirtualBox which is unified for all supported host operating systems. You can also use the command line interface and VBoxManage if needed. In the current example VirtualBox is set up on Windows 10.
+Once you have installed VirtualBox, open the application. You can see the graphical user interface of VirtualBox which is unified for all supported host operating systems. You can also use the command line interface and VBoxManage if needed. In the current example VirtualBox is set up on Windows.
 
 # Creating a Virtual Machine
+Click **Machine** > **New** or hit the icon with the blue star to create a new virtual machine in VirtualBox GUI.
 
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/How-to-setup-VirtualBox-%E2%80%93-Creating-a-new-VM-1.webp)
+
+Specify name, Machine Folder (to save),Type and version for your virtual machine  and click on **Next**.
+
 
 
 
