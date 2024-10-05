@@ -16,9 +16,13 @@ Go to the official web site (Link: https://www.virtualbox.org/wiki/Downloads) to
 # Run the installer and define the installation options
 
 1. Run the VirtualBox installer. The installation wizard that has a GUI (graphical user interface) should appear.
+   
 2.Select the manner in which you want features to be installed, clicking on the installation directory and installed components—you can leave the default values. Then tick the checkboxes near shortcut options and file associations.
+
 3.Confirm installation of VirtualBox network interfaces (click Yes).
+
 4.On the Ready to Install Screen, hit Install to start the installation process.
+
 5.After finishing installation, you can tick the checkbox for starting VirtualBox after installation.
 
 
