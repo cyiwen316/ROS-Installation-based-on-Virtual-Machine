@@ -30,6 +30,9 @@ Once you have installed VirtualBox, open the application. You can see the graphi
 
 # Creating a Virtual Machine
 
+![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/How-to-setup-VirtualBox-%E2%80%93-Creating-a-new-VM-1.webp)
+
+
 
 
 
