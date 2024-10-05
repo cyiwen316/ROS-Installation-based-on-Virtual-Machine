@@ -35,6 +35,13 @@ Click **Machine** > **New** or hit the icon with the blue star to create a new v
 
 Specify name, Machine Folder (to save),Type and version for your virtual machine  and click on **Next**.
 
+![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/5-12.png)
+
+Here, we have to choose the base memory based on your host system RAM size. It is highly recommended to not choose less than 1GB (if possibly choose more than _10GB_).specify RAM _2048_ and click on **Next**.
+
+
+
+
 
 
 
