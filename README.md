@@ -178,7 +178,7 @@ Then add to your **.bashrc** file a source to the setup scripts:
 echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 ```
 
-## Install Gazabo_robotino
+## VI. Install Gazabo_robotino
 Install gazebo on your computer :
 ```
 sudo apt install ros-noetic-gazebo-ros ros-noetic-gazebo-plugins gazebo11 
@@ -203,6 +203,30 @@ git clone https://github.com/cyiwen316/gazebo_robotino_ros_pkg.git
 cd ~/catkin_ws
 catkin_make
 ```
+
+```
+echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+```
+
+How to use the simulator
+To launch the simulator :
+Open a terminal :
+```
+roslaunch gazebo_robotino_ros_pkg env_global.launch
+```
+You can launch the 3D frontend of gazebo by launching in a another terminal :
+```
+gzclient
+```
+
+There is a top camera on the simulation to see the robot and the terrain, you can see it by using rqt_image_view and looking the topic /gazebo/camera/top_camera/image_raw. You can run it in a new terminal :
+```
+rqt_image_view /gazebo/camera/top_camera/image_raw
+```
+
+
+
 
 
 > [!NOTE]
