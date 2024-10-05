@@ -56,7 +56,7 @@ Here, we have to choose the base memory based on your host system RAM size. It i
 
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/6-12.png)
 
-> [!CAUTION]
+> [!NOTE]
 Ubuntu recommends at least 25GB of free storage for smooth running.
 
 Click on **settings** to see the system information of your virtual machine.
@@ -78,6 +78,10 @@ The Ubuntu 20.4 iso image has been loaded successfully to your virtual machine a
 Install Ubuntu 20.04.1 LTS in Virtual Machine: Click on Start to start the installing ubuntu.
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/15-8.png)
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+## III.
 
 
 
@@ -87,6 +91,18 @@ Install Ubuntu 20.04.1 LTS in Virtual Machine: Click on Start to start the insta
 
 
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
