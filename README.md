@@ -144,6 +144,13 @@ sudo rosdep init
 rosdep update
 ```
 
+## IV. Create a ROS Workspace
+Let's create and build a catkin workspace:
+```
+$ mkdir -p ~/catkin_ws/src
+$ cd ~/catkin_ws/
+$ catkin_make
+```
 
 
 
