@@ -9,7 +9,7 @@ First, go to the official web site and click **'check out our alternative downlo
 
 Then, go down and click **'Ubuntu 20.04 LTS (Focal Fossa)'**.
 
-![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/Ubuntu20.04-2.png)
+![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/Ubuntu20.04-3.png)
 
 Finally, 
 
