@@ -147,12 +147,62 @@ rosdep update
 ## IV. Create a ROS Workspace
 Let's create and build a catkin workspace:
 ```
-$ mkdir -p ~/catkin_ws/src
-$ cd ~/catkin_ws/
-$ catkin_make
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/src
+catkin_init_workspace
+cd ~/catkin_ws
+catkin_make
+source devel/setup.bash
 ```
 
+## V. Install gazebo_ros_pkgs
+The gazebo_ros_pkgs packages are available in:
 
+ROS Noetic:
+```
+sudo apt-get install ros-noetic-gazebo-ros-pkgs ros-noetic-gazebo-ros-control
+```
+### Setup A Catkin Workspace
+These instructions require the use of the catkin build system.
+
+If you do not have a catkin workspace setup, try the following commands:
+```
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/src
+catkin_init_workspace
+cd ~/catkin_ws
+catkin_make
+```
+Then add to your **.bashrc** file a source to the setup scripts:
+```
+echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+```
+
+## Install Gazabo_robotino
+Install gazebo on your computer :
+```
+sudo apt install ros-noetic-gazebo-ros ros-noetic-gazebo-plugins gazebo11 
+```
+
+Make sure git is installed on your Ubuntu machine:
+```
+sudo apt-get install git
+```
+
+Open a new terminal :
+```
+cd ~
+git clone https://github.com/cyiwen316/Gazebo_UPHF.git
+echo 'export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:$HOME/Gazebo_UPHF/models' >> ~/.bashrc
+source ~/.bashrc
+```
+
+```
+cd ~/catkin_ws/src
+git clone https://github.com/cyiwen316/gazebo_robotino_ros_pkg.git
+cd ~/catkin_ws
+catkin_make
+```
 
 
 > [!NOTE]
