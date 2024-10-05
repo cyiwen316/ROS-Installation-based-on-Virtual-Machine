@@ -61,7 +61,12 @@ Ubuntu recommends at least 25GB of free storage for smooth running.
 
 Click on **settings** to see the system information of your virtual machine.
 
+![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/11-9.png)
 
+Load Ubuntu ISO Image file to your virtual machine:
+
+Go to storage section and click on Empty then load your ubuntu 20.04 iso image from your local machine as shown below.
+![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/12-10.png)
 
 
 
