@@ -7,7 +7,7 @@ First, go to the official web site and click **'check out our alternative downlo
 
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/Ubuntu20.04-1.png)
 
-
+Then, 
 
 
 
