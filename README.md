@@ -1,9 +1,13 @@
 ### BreadcrumbsROS-Installation-based-on-Virtual-Machine
 
 ## I. Download VirtualBox
+Download Ubuntu Desktop from the official web site (https://ubuntu.com/download/desktop).
 
+First, go to the official web site and click **'check out our alternative downloads'**.
 
 ![Image text](https://github.com/cyiwen316/ROS-Installation-based-on-Virtual-Machine/blob/main/Image/Ubuntu20.04-1.png)
+
+
 
 
 
